@@ -1,3 +1,5 @@
+import Reto4.*;
+
 public class Main {
     public static void main(String[] args) {
 //        RETO0
@@ -18,8 +20,26 @@ public class Main {
 //        reto2.resolver();
 
 //        RETO 3
-        Reto3 reto3 = new Reto3();
-        reto3.resolver();
+//        Reto3 reto3 = new Reto3();
+//        reto3.resolver();
 
+//        RETO 4
+//        Reto4 reto4 = new Reto4();
+//        Double base=2.0;
+//        Double altura=2.0;
+//        Double lado=2.0;
+//        reto4.resolver(Poligono.TRIANGULO,base, altura);
+//        reto4.resolver(Poligono.CUADRADO,lado, lado);
+//        reto4.resolver(Poligono.RECTANGULO,base, altura);
+
+//        RETO 5
+
+//        RETO 6
+//        Reto6 reto6 = new Reto6();
+//        reto6.resolver("Buneas tardes, como va");
+
+//        RETO 7
+        Reto7 reto7 = new Reto7();
+        reto7.resolver("hola arroz hola hola");
     }
 }
