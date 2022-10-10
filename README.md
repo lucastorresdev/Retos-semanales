@@ -6,7 +6,7 @@ indica todas las semanas se agrega un nuevo reto.
 Todos los lunes MoureDev resuelve en twitch el reto de la
 semana y deja el enunciado del nuevo reto de la semana
 
-Los retos semanales tiene un repositorio, que los podes <a href="https://github.com/mouredev/Weekly-Challenge-2022-Kotlin" target="_blank"> ver acá </a>
+Los retos semanales tienen un repositorio, que lo pode <a href="https://github.com/mouredev/Weekly-Challenge-2022-Kotlin" target="_blank"> ver acá </a>
 
 También tiene una página web, que la podes <a href="https://retosdeprogramacion.com/semanales2022" target="_blank"> ver acá </a>
 ## Mi progreso
