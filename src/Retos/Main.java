@@ -1,4 +1,15 @@
-import Reto4.*;
+package Retos;
+import Retos.Reto0.Reto0;
+import Retos.Reto1.Reto1;
+import Retos.Reto2.Reto2;
+import Retos.Reto3.Reto3;
+import Retos.Reto4.Poligono;
+import Retos.Reto4.Reto4;
+import Retos.Reto6.Reto6;
+import Retos.Reto7.Reto7;
+
+
+
 
 public class Main {
     public static void main(String[] args) {

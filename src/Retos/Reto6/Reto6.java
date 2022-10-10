@@ -1,3 +1,5 @@
+package Retos.Reto6;
+
 public class Reto6 {
 
     /*

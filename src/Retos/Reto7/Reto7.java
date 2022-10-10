@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+package Retos.Reto7;
 
 public class Reto7 {
 

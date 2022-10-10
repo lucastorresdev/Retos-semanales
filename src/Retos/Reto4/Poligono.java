@@ -1,4 +1,4 @@
-package Reto4;
+package Retos.Reto4;
 
 public enum Poligono {
 
