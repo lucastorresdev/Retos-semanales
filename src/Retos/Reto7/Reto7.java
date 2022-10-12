@@ -1,5 +1,8 @@
 package Retos.Reto7;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Reto7 {
 
     /*
@@ -11,34 +14,48 @@ public class Reto7 {
      *   lo resuelvan automáticamente.
      */
 
+
     public void resolver(String cadena) {
+
 
         String cadenaLower=cadena.toLowerCase();
         String[] listaDePalabras;
         Integer contador=0;
         Integer numeros=0;
+        Integer aux=0;
 
         listaDePalabras = cadenaLower.split(" ");
 
+
+
+        List<Palabra> palabrasSeparadas = new ArrayList<>();
+        List<Palabra> palabrasContadas = new ArrayList<>();
         for (String cadenas:listaDePalabras) {
             contador++;
+            palabrasContadas.add(new Palabra("",0));
         }
-
+        int j=0;
         for (int i = 0; i < contador ; i++) {
-
-            if(i==0) {
-                for (int j = 0; j < contador; j++) {
-                    if (listaDePalabras[i].equals(listaDePalabras[j + 1])) {
-                        numeros++;
+                for (j=j; j < contador; j++) {
+                    if (listaDePalabras[i].equals(listaDePalabras[j])) {
+                        if (!palabrasContadas.get(i).getPalabra().equals(listaDePalabras[i])) {
+                            palabrasContadas.set(i,new Palabra(listaDePalabras[i], 0));
+                        }
+                    }
+                    if(palabrasContadas.get(i).getPalabra().equals(listaDePalabras[j])){
+                        palabrasContadas.get(i).sumarCantidad();
                     }
                 }
-            }
-
-
+                aux++;
+                if(j==contador){
+                j=aux;
+                }
         }
 
 
-    System.out.println(numeros);
+        for (Palabra palabra:palabrasContadas) {
+            System.out.println(palabra.getPalabra()+": "+palabra.getCantidad());
+        }
 
 
     }

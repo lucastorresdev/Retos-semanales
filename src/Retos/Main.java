@@ -51,6 +51,6 @@ public class Main {
 
 //        RETO 7
         Reto7 reto7 = new Reto7();
-        reto7.resolver("hola arroz hola hola");
+        reto7.resolver("Hola, mi nombre es brais . Mi nombre completo es Brais Moure (MoureDev).");
     }
 }
