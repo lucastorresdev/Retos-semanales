@@ -48,26 +48,6 @@ public class Reto10 {
                 valorObtenido++;
             }
 
-//        for (int i = 0; i < expresionChar.size(); i++) {
-//
-//            for (int j = 0; j < expresionChar.size(); j++) {
-//
-//                if (expresionChar.get(i).equals('[')&&expresionChar.get(j).equals(']')){
-//                    valorObtenido++;
-//                }
-//
-//
-//                if (expresionChar.get(i).equals('{')&&expresionChar.get(j).equals('}')){
-//                    valorObtenido++;
-//                }
-//                if (expresionChar.get(i).equals('(')&&expresionChar.get(j).equals(')')){
-//                    valorObtenido++;
-//                }
-//
-//            }
-//
-//        }
-
 
         if (valorEsperado==valorObtenido){
             System.out.println("Expresion balanceada");
