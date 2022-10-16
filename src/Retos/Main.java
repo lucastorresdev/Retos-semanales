@@ -7,8 +7,7 @@ import Retos.Reto4.Poligono;
 import Retos.Reto4.Reto4;
 import Retos.Reto6.Reto6;
 import Retos.Reto7.Reto7;
-
-
+import Retos.Reto8.Reto8;
 
 
 public class Main {
@@ -50,7 +49,11 @@ public class Main {
 //        reto6.resolver("Buneas tardes, como va");
 
 //        RETO 7
-        Reto7 reto7 = new Reto7();
-        reto7.resolver("Hola, mi nombre es brais . Mi nombre completo es Brais Moure (MoureDev).");
-    }
+//        Reto7 reto7 = new Reto7();
+//        reto7.resolver("Hola, mi nombre es brais . Mi nombre completo es Brais Moure (MoureDev).");
+
+//        RETO 8
+        Reto8 reto8 = new Reto8();
+        reto8.resolver(958.0);
+      }
 }
