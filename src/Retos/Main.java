@@ -1,14 +1,5 @@
 package Retos;
-import Retos.Reto0.Reto0;
-import Retos.Reto1.Reto1;
-import Retos.Reto2.Reto2;
-import Retos.Reto3.Reto3;
-import Retos.Reto4.Poligono;
-import Retos.Reto4.Reto4;
-import Retos.Reto6.Reto6;
-import Retos.Reto7.Reto7;
-import Retos.Reto8.Reto8;
-import Retos.Reto9.Reto9;
+import Retos.Reto10.Reto10;
 
 
 public class Main {
@@ -58,8 +49,12 @@ public class Main {
 //        reto8.resolver(958.0);
 
 //        Reto 9
-        Reto9 reto9 = new Reto9();
-        reto9.resolver("Quiero pasar este texto a codigo morse");
+//        Reto9 reto9 = new Reto9();
+//        reto9.resolver("Quiero pasar este texto a codigo morse");
+
+//        Retos.Reto10.Reto10
+//        Reto10 reto10 = new Reto10();
+//        reto10.resolver("(a");
 
       }
 }

@@ -11,7 +11,7 @@ Los retos semanales tienen un repositorio, que lo pode <a href="https://github.c
 También tiene una página web, que la podes <a href="https://retosdeprogramacion.com/semanales2022" target="_blank"> ver acá </a>
 ## Mi progreso
 
-![](https://progress-bar.dev/19)
+![](https://progress-bar.dev/22)
 
 - [X] Reto #0: [`EL FAMOSO "FIZZ BUZZ”`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto0/Reto0.java)
 - [X] Reto #1: [`¿ES UN ANAGRAMA?`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto1/Reto1.java)
@@ -23,7 +23,7 @@ También tiene una página web, que la podes <a href="https://retosdeprogramacio
 - [X] Reto #7: [`CONTANDO PALABRAS`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto7/Reto7.java)
 - [X] Reto #8: [`DECIMAL A BINARIO`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto8/Reto8.java)
 - [X] Reto #9: [`CÓDIGO MORSE`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto9/Reto9.java)
-- [ ] Reto #10: EXPRESIONES EQUILIBRADAS
+- [X] Reto #10: [`EXPRESIONES EQUILIBRADAS`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto10/Reto10.java)
 - [ ] Reto #11: ELIMINANDO CARACTERES
 - [ ] Reto #12: ¿ES UN PALÍNDROMO?
 - [ ] Reto #13: FACTORIAL RECURSIVO
