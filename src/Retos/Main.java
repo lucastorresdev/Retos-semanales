@@ -8,6 +8,7 @@ import Retos.Reto4.Reto4;
 import Retos.Reto6.Reto6;
 import Retos.Reto7.Reto7;
 import Retos.Reto8.Reto8;
+import Retos.Reto9.Reto9;
 
 
 public class Main {
@@ -53,7 +54,12 @@ public class Main {
 //        reto7.resolver("Hola, mi nombre es brais . Mi nombre completo es Brais Moure (MoureDev).");
 
 //        RETO 8
-        Reto8 reto8 = new Reto8();
-        reto8.resolver(958.0);
+//        Reto8 reto8 = new Reto8();
+//        reto8.resolver(958.0);
+
+//        Reto 9
+        Reto9 reto9 = new Reto9();
+        reto9.resolver("Quiero pasar este texto a codigo morse");
+
       }
 }
