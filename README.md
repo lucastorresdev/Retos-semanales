@@ -14,7 +14,7 @@ acá </a>
 
 ## Mi progreso
 
-![](https://progress-bar.dev/26)
+![](https://progress-bar.dev/30)
 
 - [X] Reto
   #0: [`EL FAMOSO "FIZZ BUZZ”`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto0/Reto0.java)
@@ -37,7 +37,8 @@ acá </a>
   #9: [`CÓDIGO MORSE`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto9/Reto9.java)
 - [X] Reto
   #10: [`EXPRESIONES EQUILIBRADAS`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto10/Reto10.java)
-- [ ] Reto #11: ELIMINANDO CARACTERES
+- [X] Reto
+  #11: [`ELIMINANDO CARACTERES`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto11/Reto11.java)
 - [ ] Reto #12: ¿ES UN PALÍNDROMO?
 - [ ] Reto #13: FACTORIAL RECURSIVO
 - [ ] Reto #14: ¿ES UN NÚMERO DE ARMSTRONG?
