@@ -1,9 +1,10 @@
 package Retos;
 import Retos.Reto10.Reto10;
+import Retos.Reto42.Reto42;
 
+public class Main{
 
-public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args){
 //        RETO0
 //        Reto0 reto0 = new Reto0();
 //        reto0.resolver();
@@ -15,7 +16,6 @@ public class Main {
 //        reto1.resolver(palabra1, palabra2);
 //        System.out.println(
 //                reto1.resolver(palabra1, palabra2));
-
 
 //        RETO 2
 //        Reto2 reto2 = new Reto2();
@@ -56,5 +56,9 @@ public class Main {
 //        Reto10 reto10 = new Reto10();
 //        reto10.resolver("(a");
 
-      }
+//        Reto 42
+        Reto42 reto42 = new Reto42();
+        reto42.resolver("15.5°c");
+    }
+
 }
