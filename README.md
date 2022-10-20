@@ -39,7 +39,8 @@ acá </a>
   #10: [`EXPRESIONES EQUILIBRADAS`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto10/Reto10.java)
 - [X] Reto
   #11: [`ELIMINANDO CARACTERES`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto11/Reto11.java)
-- [ ] Reto #12: ¿ES UN PALÍNDROMO?
+- [X] Reto
+  #12: [`¿ES UN PALÍNDROMO?`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto12/Reto12.java)
 - [ ] Reto #13: FACTORIAL RECURSIVO
 - [ ] Reto #14: ¿ES UN NÚMERO DE ARMSTRONG?
 - [ ] Reto #15: ¿CUÁNTOS DÍAS?

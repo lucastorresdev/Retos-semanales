@@ -1,6 +1,7 @@
 package Retos;
 import Retos.Reto10.Reto10;
 import Retos.Reto11.Reto11;
+import Retos.Reto12.Reto12;
 import Retos.Reto42.Reto42;
 
 public class Main{
@@ -58,8 +59,12 @@ public class Main{
 //        reto10.resolver("(a");
 
 //        Reto 11
-        Reto11 reto11 = new Reto11();
-        reto11.resolver("uno dos tres cinco", "cinco seis siete ocho");
+//        Reto11 reto11 = new Reto11();
+//        reto11.resolver("uno dos tres cinco", "cinco seis siete ocho");
+
+//        Reto 12
+        Reto12 reto12 = new Reto12();
+        reto12.resolver("Teclado");
 
 //        Reto 42
 //        Reto42 reto42 = new Reto42();
