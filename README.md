@@ -14,7 +14,7 @@ acá </a>
 
 ## Mi progreso
 
-![](https://progress-bar.dev/30)
+![](https://progress-bar.dev/31)
 
 - [X] Reto
   #0: [`EL FAMOSO "FIZZ BUZZ”`](https://github.com/lucastorresdev/Retos-semanales/blob/master/src/Retos/Reto0/Reto0.java)
